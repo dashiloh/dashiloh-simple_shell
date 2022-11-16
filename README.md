@@ -1,2 +1,2 @@
-# dashiloh-simple_shell
-Write a beautiful code that passes the Betty checks
+ALX group shell task.
+Shell is an environment in which we can run our commands, programs, and shell script.
